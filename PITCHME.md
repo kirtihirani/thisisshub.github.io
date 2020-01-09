@@ -226,6 +226,6 @@ https://whatcanidoformozilla.org/#!/progornoprog/proglang
 https://github.com/tapaswenipathak/Open-Source-Programs
 
 ---
- **you may leave now**
+Thankyou
 
-shoo away..
+hope you liked this workshop!
